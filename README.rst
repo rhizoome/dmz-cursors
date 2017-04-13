@@ -35,13 +35,20 @@ Install
    mkdir -p ~/.icons
    mv dmz-white ~/.icons/default
 
-* Edit .Xresources and set the desired size (ie 48)
+* Edit ~/.Xresources and set the desired size (ie 48)
 
 .. code-block:: text
 
    Xcursor.size: 48
 
 * Logout-login
+
+Note: If your ~/.Xresources are not read, you might have to add it to
+~/.xinitrc. You can check if it loads with:
+
+.. code-block:: bash
+
+   xrdb -query -all
 
 Presentation
 ============
