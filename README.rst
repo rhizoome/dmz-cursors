@@ -41,6 +41,18 @@ Install
 
    Xcursor.size: 48
 
+* Logout-login
+
+Presentation
+============
+
+Run browser presentation with huge cursor:
+
+.. code-block:: bash
+
+   XCURSOR_SIZE=96 chromium-browser
+
+
 Standard dmz-cursor-theme
 =========================
 
