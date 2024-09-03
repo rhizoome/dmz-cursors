@@ -68,5 +68,3 @@ What I did
 * Set new hotspots
 
 * Removed animated icons
-
-Jean-Louis Fuchs <ganwell@fangorn.ch>
