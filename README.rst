@@ -8,16 +8,6 @@ Based on `Jakub Steiner`_'s DMZ X11 Cursor theme.
 
 .. _`Jakub Steiner`: http://jimmac.musichall.cz/
 
-.. image:: https://1042.ch/ganwell/dmz.svg
-   :width: 50%
-   :align: center
-   :alt: DMZ White
-
-.. image:: https://1042.ch/ganwell/dmz-aa.svg
-   :width: 50%
-   :align: center
-   :alt: DMZ Black
-
 Modern screens have various DPI, therefore you have to be more flexible in scaling
 the cursor. Also on high-resolution beamers, really huge cursors can be handy,
 so even the last row can see your cursor.
